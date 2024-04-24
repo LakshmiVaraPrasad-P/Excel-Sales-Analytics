@@ -24,7 +24,7 @@
 
     **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/varaprasad55/Excel-Sales-Analytics/blob/898f770a30df68e1792a7b87c5c8fbf289c00bb4/P%20%26%20L%20Statement%20by%20Fiscal%20Year.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/varaprasad55/Excel-Sales-Analytics/blob/898f770a30df68e1792a7b87c5c8fbf289c00bb4/P%20%26%20L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/varaprasad55/Excel-Sales-Analytics/blob/3e9f980318060dd2267f68c445c1446aa3c6833e/P%20%26%20L%20Statement%20by%20Markets.pdf)_
   
   **3.** Create Profit and Loss (P&L) reports by _[Months](https://github.com/varaprasad55/Excel-Sales-Analytics/blob/22073bbf3b5da264f85455d52c14bc423fe204ea/P%20%26%20L%20Statement%20by%20Months.pdf)_
 
