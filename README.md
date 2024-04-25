@@ -51,3 +51,6 @@
 - [x]	Crafted user-centric reports with a focus on user needs and preferences.
 - [x]	Enhanced report generation efficiency through careful refinement.
 - [x]	Leveraged a systematic approach for creating comprehensive report building plans.
+- [x]	Grasping vital business metrics, including Profit & Loss, Gross Margin, Cost of Goods Sold (COGS) and fiscal year
+
+
